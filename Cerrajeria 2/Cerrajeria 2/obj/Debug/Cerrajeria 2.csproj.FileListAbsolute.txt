@@ -1,0 +1,25 @@
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\bin\Debug\Cerrajeria 2.exe.config
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\bin\Debug\Cerrajeria 2.exe
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\bin\Debug\Cerrajeria 2.pdb
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.csprojAssemblyReference.cache
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.Cliente.resources
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.Empleado.resources
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.Principal.resources
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.Properties.Resources.resources
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.csproj.GenerateResource.cache
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.csproj.CoreCompileInputs.cache
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.exe
+C:\Users\ajedr\OneDrive\Documentos\GitHub\Ingenieria de Software Proyecto\Proyecto-Cerrajeria\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.pdb
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\bin\Debug\Cerrajeria 2.exe.config
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\bin\Debug\Cerrajeria 2.exe
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\bin\Debug\Cerrajeria 2.pdb
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.csprojResolveAssemblyReference.cache
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.Cliente.resources
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.Empleado.resources
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.InicioSesion.resources
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.Principal.resources
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria_2.Properties.Resources.resources
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.csproj.GenerateResource.Cache
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.csproj.CoreCompileInputs.cache
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.exe
+C:\Users\Maricrush uwu\Documents\ITNL\6° semestre\Ingenieria de Software\Proyecto-Cerrajeria-master\Cerrajeria 2\Cerrajeria 2\obj\Debug\Cerrajeria 2.pdb
